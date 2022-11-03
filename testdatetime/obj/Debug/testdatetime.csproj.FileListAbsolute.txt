@@ -1,0 +1,10 @@
+G:\PRG\testdatetime\testdatetime\bin\Debug\testdatetime.exe.config
+G:\PRG\testdatetime\testdatetime\bin\Debug\testdatetime.exe
+G:\PRG\testdatetime\testdatetime\bin\Debug\testdatetime.pdb
+G:\PRG\testdatetime\testdatetime\obj\Debug\testdatetime.csprojAssemblyReference.cache
+G:\PRG\testdatetime\testdatetime\obj\Debug\testdatetime.Form1.resources
+G:\PRG\testdatetime\testdatetime\obj\Debug\testdatetime.Properties.Resources.resources
+G:\PRG\testdatetime\testdatetime\obj\Debug\testdatetime.csproj.GenerateResource.cache
+G:\PRG\testdatetime\testdatetime\obj\Debug\testdatetime.csproj.CoreCompileInputs.cache
+G:\PRG\testdatetime\testdatetime\obj\Debug\testdatetime.exe
+G:\PRG\testdatetime\testdatetime\obj\Debug\testdatetime.pdb
